@@ -1,0 +1,1 @@
+Read the instructions in style.css and update the stylesheet so as to make update the style of HTML page.
